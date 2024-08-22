@@ -42,8 +42,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
 </div>
@@ -60,7 +58,10 @@
   <a href="https://www.linkedin.com/in/kushal-goel-b8a578270/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/vishnu1549_be21" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/kushal_019/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GeeksForGeeks&logo=GeeksForGeeks&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GeeksForGeeks logo"  />
+  </a>
+  <a href="https://leetcode.com/u/kushal_019/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Leetcode&logo=Leetcode&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Leetcode logo"  />
   </a>
 </div>
@@ -69,5 +70,5 @@
 
 <br clear="both">
 
-<img src="./output/snake.svg" alt="Snake animation" />
+<img src="./SnakeGame.svg" alt="Snake animation" />
 
