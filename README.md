@@ -4,6 +4,7 @@
 ###
 
 <div align="left">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -14,6 +15,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
+</div>
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -24,6 +27,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
+</div>
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
@@ -34,6 +39,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
+</div>
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
@@ -59,10 +66,10 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.geeksforgeeks.org/user/kushal_019/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GeeksForGeeks&logo=GeeksForGeeks&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GeeksForGeeks logo"  />
+    <img src="https://img.shields.io/static/v1?message=GeeksForGeeks&logo=GeeksForGeeks&label=&color=white&logoColor=2EC866&labelColor=&style=for-the-badge" height="35" alt="GeeksForGeeks logo"  />
   </a>
   <a href="https://leetcode.com/u/kushal_019/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=Leetcode&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Leetcode logo"  />
+    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=Leetcode&label=&color=E0A75E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Leetcode logo"  />
   </a>
 </div>
 
